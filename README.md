@@ -75,22 +75,19 @@ I enjoy analyzing game mechanics and finding edge cases that may affect player e
 ## 🎮 Game Testing Experience
 - Tested gameplay systems in Unreal Engine (PC project)
 - Analyzed mechanics and UX in games like:
-  - Township  
   - DesignVille  
-  - Supermarket Mania  
-  - Cut the Rope  
+  - Supermarket Mania    
 
 ---
 
 ## 📂 QA Portfolio
 Here you can find examples of my work:
 - Test Cases
+Test cases for game Design Ville: https://docs.google.com/spreadsheets/d/18KQpRZK8fy3NPhGVnyep2nWYy0fzLT1C52goDPVjyKc/edit?gid=1798639607#gid=1798639607
 - Bug Reports
+  Bug reports for game Design Ville: https://docs.google.com/document/d/1CSGNcTiSKv6O0o_Bhyl4ZxpSoNhNMxfIqsEY6U95t2c/edit?usp=sharing
 - Checklists
-- Game Testing Analysis
-
-👉 Check my repositories below 👇
-
+Checklists for game Design Ville: https://docs.google.com/spreadsheets/d/1dyHql10fx-RY9gZHoxpUUE13ly4tVMjYE_o-K8DSJyw/edit?usp=sharing
 ---
 
 ⭐ Open to opportunities in Game QA / Junior QA positions
