@@ -93,9 +93,4 @@ Here you can find examples of my work:
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/nikita-deriabin-5b56a1361
-
----
-
 ⭐ Open to opportunities in Game QA / Junior QA positions
