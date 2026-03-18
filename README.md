@@ -20,7 +20,7 @@ I enjoy analyzing game mechanics and finding edge cases that may affect player e
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="www.linkedin.com/in/nikita-deriabin-5b56a1361" target="_blank">
+   <a href="https://www.linkedin.com/in/nikita-deriabin-5b56a1361" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Lu1SOne" target="_blank">
