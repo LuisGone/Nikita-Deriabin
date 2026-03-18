@@ -84,6 +84,7 @@ I enjoy analyzing game mechanics and finding edge cases that may affect player e
 Here you can find examples of my work:
 - Test Cases
 Test cases for game Design Ville: https://docs.google.com/spreadsheets/d/18KQpRZK8fy3NPhGVnyep2nWYy0fzLT1C52goDPVjyKc/edit?gid=1798639607#gid=1798639607
+Test cases for game Supermarket Mania Journey: https://docs.google.com/spreadsheets/d/1AVfTit_9liIWtrRnOHZsIi-doQOHQtbksRNgwBs4kCE/edit?usp=sharing
 - Bug Reports
   Bug reports for game Design Ville: https://docs.google.com/document/d/1CSGNcTiSKv6O0o_Bhyl4ZxpSoNhNMxfIqsEY6U95t2c/edit?usp=sharing
 - Checklists
