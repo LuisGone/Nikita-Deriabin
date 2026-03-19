@@ -98,7 +98,9 @@ Website testing (IELTS).UI/Layout testing: [View Test Cases](https://docs.google
 - Checklists
   
  Design Ville: [View Checklists](https://docs.google.com/spreadsheets/d/1dyHql10fx-RY9gZHoxpUUE13ly4tVMjYE_o-K8DSJyw/edit?usp=sharing)
- 
+
+Website testing (IELTS).Functional testing: [View Checklists](https://docs.google.com/spreadsheets/d/1OWh2RZjOXtCd_VYHd6jNwW2ZZLxX78znI0eGTKSVB5A/edit?usp=sharing)
+
 ---
 
 ⭐ Open to opportunities in Game QA / Junior QA positions
