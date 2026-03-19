@@ -84,15 +84,20 @@ I enjoy analyzing game mechanics and finding edge cases that may affect player e
 Here you can find examples of my work:
 - Test Cases
   
- Design Ville: https://docs.google.com/spreadsheets/d/18KQpRZK8fy3NPhGVnyep2nWYy0fzLT1C52goDPVjyKc/edit?usp=sharing
+Website testing (IELTS).UI/Layout testing: [View Test Cases](https://docs.google.com/spreadsheets/d/1PNnEvvYP1-Q6-w5u8N4Lh_mKlmQ5PTpOuNtpLTXSR2s/edit?usp=sharing)
+
+  
+ Design Ville: [View Test Cases](https://docs.google.com/spreadsheets/d/18KQpRZK8fy3NPhGVnyep2nWYy0fzLT1C52goDPVjyKc/edit?usp=sharing)
  
- Supermarket Mania Journey: https://docs.google.com/spreadsheets/d/1AVfTit_9liIWtrRnOHZsIi-doQOHQtbksRNgwBs4kCE/edit?usp=sharing
+ Supermarket Mania Journey: [View Test Cases](https://docs.google.com/spreadsheets/d/1AVfTit_9liIWtrRnOHZsIi-doQOHQtbksRNgwBs4kCE/edit?usp=sharing)
 - Bug Reports
   
- Design Ville: https://docs.google.com/document/d/1CSGNcTiSKv6O0o_Bhyl4ZxpSoNhNMxfIqsEY6U95t2c/edit?usp=sharing
+ Design Ville: [View Bug Reports](https://docs.google.com/document/d/1CSGNcTiSKv6O0o_Bhyl4ZxpSoNhNMxfIqsEY6U95t2c/edit?usp=sharing)
+
+ Website testing (IELTS).UI/Layout testing: [View Bug Reports](https://docs.google.com/spreadsheets/d/1UrjKrAvqBwH4s78bmqRtX4Oyw7BZQcHfPTSklXA8eA8/edit?usp=sharing)
 - Checklists
   
- Design Ville: https://docs.google.com/spreadsheets/d/1dyHql10fx-RY9gZHoxpUUE13ly4tVMjYE_o-K8DSJyw/edit?usp=sharing
+ Design Ville: [View Checklists](https://docs.google.com/spreadsheets/d/1dyHql10fx-RY9gZHoxpUUE13ly4tVMjYE_o-K8DSJyw/edit?usp=sharing)
  
 ---
 
